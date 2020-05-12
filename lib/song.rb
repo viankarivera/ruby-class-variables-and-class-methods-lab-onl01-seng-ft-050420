@@ -44,4 +44,4 @@ class Song
     artist_count
   end
 end
-song.new
+Song.new("Lucifer", "Jay-Z", "rap" )
