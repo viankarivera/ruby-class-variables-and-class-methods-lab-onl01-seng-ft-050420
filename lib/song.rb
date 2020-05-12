@@ -44,3 +44,4 @@ class Song
     artist_count
   end
 end
+song.new
